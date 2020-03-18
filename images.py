@@ -1,5 +1,4 @@
-dental_examiner=[]
-dental=[]
+
 from bs4 import BeautifulSoup
 import random
 from selenium import webdriver
