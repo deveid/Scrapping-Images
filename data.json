@@ -1,16 +1,16 @@
 [
-{
-company_name:'Aliison Limited',
-location:'Abuja',
-startDate:'2019-01-01',
-endDate:'2019-11-01',
-jobPosition:'Software Developer'
-},
-{
-company_name:'Aliison Limited',
-location:'Lagos',
-startDate:'2020-01-01',
-endDate:'2020-05-01',
-jobPosition:'Graphic Developer'
-}
+   {
+      "company_name":"Aliison Limited",
+      "location":"Abuja",
+      "startDate":"2019-01-01",
+      "endDate":"2019-11-01",
+      "jobPosition":"Software Developer"
+   },
+   {
+      "company_name":"Aliison Limited",
+      "location":"Lagos",
+      "startDate":"2020-01-01",
+      "endDate":"2020-05-01",
+      "jobPosition":"Graphic Developer"
+   }
 ]
